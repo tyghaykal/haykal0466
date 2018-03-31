@@ -1,0 +1,46 @@
+/*INI UNTUK CSS WOY*/
+
+body
+{
+	background-image: url('img1.jpg');
+	background-repeat: no-repeat;
+	background-color:rgba(0, 0, 0, 0.5);
+	align-items: center;
+}
+
+h1
+{
+	font-family: verdana;
+	font-size: 200%;
+	color: black;
+	text-align: center;
+
+}
+
+table
+{
+	 width: 100%
+
+}
+
+th
+{
+	font-family: verdana;
+	font-size: 120%;
+	color: black;
+	text-align: center;
+	background-color: #a69b97;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+td,tr
+{
+	font-family: verdana;
+	font-size: 100%;
+	color: black;
+	text-align: center;
+	background-color: #d7ccc8;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
