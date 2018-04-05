@@ -44,3 +44,10 @@ td,tr
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
+
+.header
+{
+	font-family: verdana;
+	font-weight: 700;
+	color: white;
+}

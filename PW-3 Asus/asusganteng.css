@@ -1,9 +1,30 @@
 body
 {
-
+	background-image: url('rogbg.jpg');
+	background-repeat: no-repeat;
+	align-items: center;
 }
 
-form
+table	
 {
-	width: 100%;
+	width: 90%;
+	align-items: center;
+	background-color: #a69b97;
+}
+tr,th
+{
+	width: 140px;
+}
+
+.header
+{
+	font-family: verdana;
+	font-weight: 700;
+	text-align: center;
+	color: white;
+}
+
+img
+{
+	align-items: center;
 }
