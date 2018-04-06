@@ -5,16 +5,27 @@ body
 	align-items: center;
 }
 
-table	
+.table1
 {
 	width: 90%;
 	align-items: center;
 	background-color: #a69b97;
+	
+
 }
-tr,th
+.table1 th,td	
 {
-	width: 140px;
+	text-align: center;
+	font-weight: 600;
+	table-layout:fixed;
+  width:50px;
+  overflow:hidden;
+  word-wrap:break-word;
 }
+
+
+
+
 
 .header
 {
@@ -24,7 +35,3 @@ tr,th
 	color: white;
 }
 
-img
-{
-	align-items: center;
-}
