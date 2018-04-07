@@ -1,0 +1,97 @@
+.header
+{
+	margin: 0 auto;
+	width: 800px;
+	height: 120px;
+	background-color: grey;
+
+}
+.header h1
+{
+	font-weight: 900;
+	color: white;
+	font-family: verdana;
+	font-size: 130%;
+	width: 400px;
+	text-align: right;
+	float: right;
+	margin-top: 25px;
+	padding: 10px,10px,10px 0;
+	background-color: green;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+
+.header h1 small
+{
+	font-size: 12px;
+	font-style: italic;
+	color: #fff;
+}
+
+.menu
+{
+	
+	margin: 0 auto;
+	width: 800px;
+	background-color: blue;
+	text-align: center;
+}
+
+.menu ul li 
+{
+	margin:90px;
+	display: inline;
+	color: white;
+}
+
+.menu li a
+{
+	text-decoration: none;
+	margin: 0 10px;
+	padding-bottom: 5px;
+	color: white;
+}
+
+.menu li a:hover
+{
+	color: #dd6600;
+	border-bottom: 5px solid #dd6600;
+}
+
+.content
+{
+	margin:0 auto;
+	width: 780px;
+	height: 300px;
+	background-color: #ddd;
+	padding:10px;
+}
+
+.content1
+{
+	float: left;
+	margin-right: 10px;
+	width: 250px;
+	height: 300px;
+	background-color: blue;
+
+}
+
+.content2
+{
+	float: left;
+	margin-right: 10px;
+	width: 250px;
+	height: 300px;
+	background-color: blue;
+}
+
+.content3
+{
+	float: left;
+	margin-right: 10px;
+	width: 250px;
+	height: 300px;
+	background-color: blue;
+}
